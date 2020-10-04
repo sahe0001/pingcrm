@@ -1,5 +1,7 @@
 # Ping CRM
 
+Test
+
 A demo application to illustrate how Inertia.js works.
 
 ![](https://raw.githubusercontent.com/inertiajs/pingcrm/master/screenshot.png)
